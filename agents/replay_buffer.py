@@ -1,6 +1,7 @@
 import random
 from collections import namedtuple, deque
 
+
 class ReplayBuffer:
     """Fixed-size buffer to store experience tuples."""
 
